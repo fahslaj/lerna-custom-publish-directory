@@ -1,6 +1,6 @@
 {
   "name": "bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lerna custom publish directory example - bar",
   "keywords": [],
   "author": "Austin Fahsl <austin@fahsl.io>",
