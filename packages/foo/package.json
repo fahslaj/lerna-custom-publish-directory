@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/fahslaj/lerna-custom-publish-directory/issues"
   },
-  "homepage": "https://github.com/fahslaj/lerna-custom-publish-directory#readme"
+  "homepage": "https://github.com/fahslaj/lerna-custom-publish-directory#readme",
+  "lerna": {
+    "publish": {
+      "directory": "../../dist/packages/foo"
+    }
+  }
 }
