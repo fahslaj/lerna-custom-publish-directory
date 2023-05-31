@@ -8,7 +8,7 @@ An example repo for configuring a custom publish directory for packages within a
 # Install dependencies
 npm install
 # Build packages
-npm run build
+npx lerna run build
 # Version packages
 npx lerna version
 # Publish packages
